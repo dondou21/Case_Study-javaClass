@@ -6,7 +6,7 @@
 3. Variables: Local, Instance, class variable
 4. Class & Object
 5. Constructor
-6. Method
+6. Method 
 
 ## Topic:
 Maintain account: Account number, account name, deposit amount, withdraw amount, give you  interest etc...
