@@ -1,7 +1,7 @@
 # Case_Study-javaClass
 
 ## What we learn so far:
-1. Introduction to OOPs 
+1. Introduction to OOPs  
 2. Data types 
 3. Variables: Local, Instance, class variable
 4. Class & Object
