@@ -13,7 +13,7 @@ Maintain account: Account number, account name, deposit amount, withdraw amount,
 
 ## 
 
-### Steps
+### Steps 
 1. Create a class: BankingSystem
 2. Declare instance variable: accountNum, accountName, balance, interest..
 3. Methods: deposit, withdraw, interest, etc...
